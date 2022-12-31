@@ -7,5 +7,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faysal598&show_icons=true)  
 
+![](https://raw.githubusercontent.com/Faysal598/cf-stats/main/output/light_card.svg)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Faysal598)  
 
