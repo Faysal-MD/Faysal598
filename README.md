@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Faysal Mahmud
+### Hi there 👋, I’m a AI/Machine Learning enthusiastic
 
 - 📫 How to reach me: faysalmahmud735@gmail.com 
 
