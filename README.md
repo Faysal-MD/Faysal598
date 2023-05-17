@@ -1,4 +1,4 @@
-### Hi there 👋, I’m a AI/Machine Learning enthusiastic
+### Hi there 👋, I’m a Machine Learning enthusiastic
 
 - 📫 Contact me: faysalmahmud735@gmail.com 
 
