@@ -28,12 +28,6 @@ I'm a  **Tech Enthusiast 💻 😃** who enjoys exploring and experimenting with
 
 #### Development Stuffs:
 
-<b>⚡ Github Stats</b>
-<p float="left">
-<img height="205em" src="https://raw.githubusercontent.com/FaysalMahmud/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img height="205em" src="https://raw.githubusercontent.com/FaysalMahmud/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
-</p>
-
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/FaysalMahmud?theme=wtf&font=Karma&ext=heatmap" />
