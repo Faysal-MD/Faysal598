@@ -9,6 +9,9 @@
 [![Codeforces Badge](http://img.shields.io/badge/-CodeForces-9cf?style=flat-square&logo=codeforces&link=https://codeforces.com/profile/FaysalMahmud)](https://codeforces.com/profile/FaysalMahmud) 
 [![leetcode Badge](http://img.shields.io/badge/-leetcode-orange?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/FaysalMahmud/)](https://leetcode.com/FaysalMahmud/) 
 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a  **Tech Enthusiast 💻 😃** who enjoys exploring and experimenting with new technology. I enjoy creating unique and beautiful things that serve a significant purpose.
+
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
