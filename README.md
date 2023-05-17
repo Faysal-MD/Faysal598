@@ -3,14 +3,9 @@
 
 ### 📬 Find me at
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Faysal598
-/)](https://github.com/Faysal598
-/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/Defcon27)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/11534375/hemanth-kollipara)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Faysal598/)](https://github.com/Faysal598/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faysalmahmud/)](https://www.linkedin.com/in/faysalmahmud)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:faysalmahmud735@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faysal598&show_icons=true)  
 
