@@ -26,10 +26,20 @@ I'm a  **Tech Enthusiast 💻 😃** who enjoys exploring and experimenting with
 <code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 
-![](https://raw.githubusercontent.com/Faysal598/codeforces-stats/main/output/light_card.svg)
+#### Development Stuffs:
 
-![](https://raw.githubusercontent.com/Faysal598/codeforces-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/Faysal598/codeforces-stats/main/output/rating.svg)
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="205em" src="https://raw.githubusercontent.com/FaysalMahmud/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="205em" src="https://raw.githubusercontent.com/FaysalMahmud/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+</p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/FaysalMahmud?theme=wtf&font=Karma&ext=heatmap" />
+<!-- <img height="273em" src="https://leetcard.jacoblin.cool/FaysalMahmud?theme=wtf&font=Karma&ext=contest"/> -->
+<img height="280em" src="https://raw.githubusercontent.com/Faysal598/codeforces-stats/main/output/light_card.svg" />
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faysal598&show_icons=true)  
 
