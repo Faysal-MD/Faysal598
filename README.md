@@ -26,10 +26,10 @@ I'm a  **Tech Enthusiast 💻 😃** who enjoys exploring and experimenting with
 <code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 
-![](https://raw.githubusercontent.com/Faysal598/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/Faysal598/codeforces-stats/main/output/light_card.svg)
 
-![](https://raw.githubusercontent.com/Faysal598/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/Faysal598/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/Faysal598/codeforces-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/Faysal598/codeforces-stats/main/output/rating.svg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faysal598&show_icons=true)  
 
