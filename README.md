@@ -40,8 +40,3 @@ I'm a  **Tech Enthusiast 💻 😃** who enjoys exploring and experimenting with
 <!-- <img height="273em" src="https://leetcard.jacoblin.cool/FaysalMahmud?theme=wtf&font=Karma&ext=contest"/> -->
 <img height="280em" src="https://raw.githubusercontent.com/Faysal598/codeforces-stats/main/output/light_card.svg" />
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faysal598&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Faysal598)  
-
