@@ -6,8 +6,8 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Faysal598/)](https://github.com/Faysal598/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faysalmahmud/)](https://www.linkedin.com/in/faysalmahmud)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faysalmahmud735@gmail.com)](mailto:faysalmahmud735@gmail.com)
-<!-- [![Codeforces Badge](http://img.shields.io/badge/-CodeForces-9cf?style=flat-square&logo=codeforces&link=https://codeforces.com/profile/FaysalMahmud)](https://codeforces.com/profile/FaysalMahmud) 
-[![leetcode Badge](http://img.shields.io/badge/-leetcode-orange?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/FaysalMahmud/)](https://leetcode.com/FaysalMahmud/)  -->
+[![Codeforces Badge](http://img.shields.io/badge/-Codeforces-grey?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/FaysalMahmud)](https://codeforces.com/profile/FaysalMahmud) 
+[![leetcode Badge](http://img.shields.io/badge/-leetcode-inactive?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/FaysalMahmud/)](https://leetcode.com/FaysalMahmud/) 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a  **Tech Enthusiast 💻 😃** who enjoys exploring and experimenting with new technology. I enjoy creating unique and beautiful things that serve a significant purpose.
